@@ -12,7 +12,7 @@ I'm a full-stack developer based in Belo Horizonte/MG (Brazil).
 </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="JS" title="JavaScript" heigth="30" width="40" margin-right="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+    <img align="center" alt="JS" title="JavaScript" heigth="30" width="40" marginRight="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     <img align="center" alt="NodeJS" title="NodeJS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img align="center" alt="React" title="React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" alt="HTML" title="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
