@@ -10,7 +10,7 @@ About me:
   
 <div heigth="180em" style="display: inline_block">
   <a href="https://github.com/fsbelisario">
-  <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img heigth="100%" width="300em" align="center" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsbelisario&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
