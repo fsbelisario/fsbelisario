@@ -6,11 +6,14 @@ About me:
 - 💼 Freelancer full-stack developer
 - 📫 How to reach me:
   - <a href="https://www.linkedin.com/in/felipebelisario">
-      <img heigth="10" width="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      <img heigth="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
-  - [LinkeIdn] (https://www.linkedin.com/in/felipebelisario)
-  - [E-mail] (fbelisario@gmail.com)
-
+  - <a href="fbelisario@gmail.com">
+      <img heigth="20" width="20" src="https://www.flaticon.com/br/icone-premium/gmail_2875435" />
+    </a>
+    
+    
+  
 <div heigth="180em">
   <a href="https://github.com/fsbelisario">
   <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
