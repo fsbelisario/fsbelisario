@@ -9,7 +9,7 @@ About me:
       <img heigth="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
   - <a href="fbelisario@gmail.com">
-      <img heigth="20" width="20" src="https://www.flaticon.com/br/icone-premium/gmail_2875435" />
+      <img heigth="20" width="20" src="https://img.icons8.com/color/344/gmail--v1.png" />
     </a>
     
     
