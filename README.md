@@ -4,9 +4,9 @@ I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 
 About me:
 - 💼 Freelancer full-stack developer
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: [LinkeIdn] (https://www.linkedin.com/in/felipebelisario)
+- 📫 How to reach me:
+  - [LinkeIdn] (https://www.linkedin.com/in/felipebelisario)
+  - [E-mail] (fbelisario@gmail.com)
 
 <div heigth="180em">
   <a href="https://github.com/fsbelisario">
@@ -21,7 +21,7 @@ About me:
   <img align="center" alt="HTML" title="HTML" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="CSS" title="CSS" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="PostgreSQL" title="PostgreSQL" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <div><img align="center" alt="MySQL" title="MySQL" heigth="20"  width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></div>
+  <img align="center" alt="MySQL" title="MySQL" heigth="20"  width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
   
 <!--
