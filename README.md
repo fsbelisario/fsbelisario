@@ -34,4 +34,3 @@ https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31
 https://devicon.dev/
 -->
-  
