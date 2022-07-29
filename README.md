@@ -8,7 +8,7 @@ About me:
 <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="mailto:fbelisario@gmail.com"><img heigth="24" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
   
-<div heigth="180em">
+<div heigth="180em" style="display: inline_block">
   <a href="https://github.com/fsbelisario">
   <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsbelisario&layout=compact&langs_count=16&theme=dark"/>
