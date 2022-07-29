@@ -7,6 +7,7 @@ About me:
 - 📫 How to reach me:
 <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="mailto:fbelisario@gmail.com"><img heigth="22" width="22" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" /></a>
+<a href="mailto:fbelisario@gmail.com"><img heigth="20" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
   
 <div heigth="180em">
   <a href="https://github.com/fsbelisario">
