@@ -1,5 +1,6 @@
-### 👋 Hi, I'm Felipe Belisário
-I'm a full-stack developer based in Belo Horizonte/MG (Brazil).
+## Felipe Belisário
+
+I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,15 +12,15 @@ I'm a full-stack developer based in Belo Horizonte/MG (Brazil).
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsbelisario&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
-    <img align="center" alt="JS" title="JavaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="NodeJS" title="NodeJS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    <img align="center" alt="React" title="React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img align="center" alt="HTML" title="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img align="center" alt="CSS" title="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img align="center" alt="PostgreSQL" title="PostgreSQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-    <img align="center" alt="MySQL" title="MySQL" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  </div>
+<div style="display: inline_block, margin: 10px"><br>
+  <img align="center" alt="JS" title="JavaScript" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="NodeJS" title="NodeJS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="React" title="React" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="center" alt="HTML" title="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" title="CSS" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="PostgreSQL" title="PostgreSQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="center" alt="MySQL" title="MySQL" heigth="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</div>
   
 <!--
 https://github.com/anuraghazra/github-readme-stats#github-stats-card
