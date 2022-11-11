@@ -8,7 +8,11 @@ About me:
 </div>
 <div heigth="16px" style="display: flex, align_items: center, margin: 0 12px">
   <span>📫 How to reach me:</span>
-  <a href="mailto:fbelisario@gmail.com"><img heigth="16px" width="17.3px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
+  <a href="mailto:fbelisario@gmail.com"><img heigth="18px" width="19.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
+</div>
+<div heigth="16px" style="display: flex, align_items: center, margin: 0 12px">
+  <span>💼 Professional profile:</span>
+  <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="18px" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 </div>
 
 - 📫 How to reach me:
