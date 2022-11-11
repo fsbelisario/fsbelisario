@@ -9,11 +9,11 @@ About me:
   </ul>
   <ul>
     <a href="mailto:fbelisario@gmail.com"><img heigth="18px" width="19.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
-    <span>Reach me!</span>
+    <span> Reach me!</span>
   </ul>
   <ul>
     <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="19px" width="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-    <span>Professional profile</span>  
+    <span> Professional profile</span>  
   </ul>
 </div>
 
@@ -23,7 +23,7 @@ About me:
   <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsbelisario&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-<div style="display: inline_block, margin: 12px, padding: 200px"><br>
+<div style="display: inline_block, margin: 12px"><br>
   <img align="center" alt="JS" title="JavaScript" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="NodeJS" title="NodeJS" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="React" title="React" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
