@@ -7,15 +7,16 @@ About me:
   <li>
     <span>Freelancer full-stack developer</span>
   </li>
+  <li>
+    <a href="mailto:fbelisario@gmail.com"><img heigth="18px" width="19.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
+    <span>Reach me!</span>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="18px" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <span>Professional profile</span>  
+  </li>
 </div>
-<div heigth="16px" style="display: flex, align_items: center, margin: 0px 12px 0px 12px">
-  <a href="mailto:fbelisario@gmail.com"><img heigth="18px" width="19.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
-  <span>Reach me!</span>
-</div>
-<div heigth="16px" style="display: flex, align_items: center, margin: 0px 12px 0px 12px">
-  <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="18px" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  <span>Professional profile</span>
-</div>
+
 <br/>
 
 <div heigth="180em" style="display: inline_block">
