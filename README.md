@@ -3,7 +3,13 @@
 I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 
 About me:
-- 💼 Freelancer full-stack developer
+<div heigth="16px" style="display: flex, align_items: center">
+  - 💼 Freelancer full-stack developer
+</div>
+<div heigth="16px" style="display: flex, align_items: center">
+  - 📫 How to reach me:
+</div>
+
 - 📫 How to reach me:
 <a href="mailto:fbelisario@gmail.com"><img heigth="23" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
 - 💼 Professional profile:
