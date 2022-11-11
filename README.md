@@ -5,17 +5,17 @@ I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 About me:
 - 💼 Freelancer full-stack developer
 - 📫 How to reach me:
-<a href="mailto:fbelisario@gmail.com"><img heigth="24" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
+<a href="mailto:fbelisario@gmail.com"><img heigth="23" width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
 - 💼 Professional profile:
 <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="21" width="21" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   
-<div heigth="180em" style="display: inline_block">
+<div heigth="180em" style="display: inline_block, gap: 12px">
   <a href="https://github.com/fsbelisario">
   <img heigth="100%" width="419" align="center" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsbelisario&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-<div style="display: inline_block, margin: 10px"><br>
+<div style="display: inline_block, margin: 12px"><br>
   <img align="center" alt="JS" title="JavaScript" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="NodeJS" title="NodeJS" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="React" title="React" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
