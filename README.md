@@ -17,15 +17,13 @@ About me:
   </ul>
 </div>
 
-<br/>
-
 <div heigth="180em" style="display: inline_block, margin: 12px">
   <a href="https://github.com/fsbelisario">
   <img heigth="100%" width="419" align="center" style="margin: 0 12px 0 0" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsbelisario&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
-<div style="display: inline_block, margin: 12px"><br>
+<div style="display: inline_block, margin: 12px, padding_top: 200px"><br>
   <img align="center" alt="JS" title="JavaScript" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="NodeJS" title="NodeJS" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="React" title="React" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
