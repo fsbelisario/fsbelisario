@@ -7,7 +7,7 @@ About me:
   💼 Freelancer full-stack developer
 </div>
 <div heigth="16px" style="display: flex, align_items: center, margin: 0 12px">
-  📫 How to reach me:
+  <span>📫 How to reach me:</span>
 </div>
 
 - 📫 How to reach me:
