@@ -3,11 +3,11 @@
 I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 
 About me:
-<div heigth="16px" style="display: flex, align_items: center, margin_left: 12px">
-  - 💼 Freelancer full-stack developer
+<div heigth="16px" style="display: flex, align_items: center, margin: 0 12px">
+  💼 Freelancer full-stack developer
 </div>
-<div heigth="16px" style="display: flex, align_items: center, margin_left: 12px">
-  - 📫 How to reach me:
+<div heigth="16px" style="display: flex, align_items: center, margin: 0 12px">
+  📫 How to reach me:
 </div>
 
 - 📫 How to reach me:
