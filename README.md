@@ -19,7 +19,7 @@ About me:
 
 <br/>
 
-<div heigth="180em" style="display: inline_block">
+<div heigth="180em" style="display: inline_block, margin: 12px">
   <a href="https://github.com/fsbelisario">
   <img heigth="100%" width="419" align="center" style="margin: 0 12px 0 0" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsbelisario&layout=compact&langs_count=16&theme=dark"/>
