@@ -4,7 +4,9 @@ I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 
 About me:
 <div heigth="16px" style="display: flex, align_items: center, margin: 0px 12px 0px 12px">
-  <span>Freelancer full-stack developer</span>
+  <li>
+    <span>Freelancer full-stack developer</span>
+  </li>
 </div>
 <div heigth="16px" style="display: flex, align_items: center, margin: 0px 12px 0px 12px">
   <a href="mailto:fbelisario@gmail.com"><img heigth="18px" width="19.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
