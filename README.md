@@ -5,7 +5,7 @@ I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 About me:
 - 💼 Freelancer full-stack developer
 - 📫 How to reach me:<br/>
-<a href="https://www.linkedin.com/in/felipebelisario"><img heigth="23" width="23" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a><span>  </span><a href="mailto:fbelisario@gmail.com"><img heigth="24" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
+<a href="https://www.linkedin.com/in/felipebelisario"><img heigth="22" width="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a><span value=' '/><a href="mailto:fbelisario@gmail.com"><img heigth="24" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
   
 <div heigth="180em" style="display: inline_block">
   <a href="https://github.com/fsbelisario">
