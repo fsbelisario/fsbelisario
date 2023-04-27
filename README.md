@@ -7,6 +7,8 @@ About me:
     <span>Freelance full-stack developer with Engineering and Project Management background. Currently applying software development skills to innovation and continuous improvement solutions.</span>
   </ul>
   
+  [![TESTE](https://github-readme-stats.vercel.app/api?username=fsbelisario)](https://github.com/fsbelisario/github-readme-stats)
+  
 <div style="display: flex, align_items: center, margin: 0px 12px 0px 12px">  
   <a href="mailto:fbelisario.dev@gmail.com"><img heigth="18px" width="19.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
   <span> Reach me!</span>
@@ -30,14 +32,3 @@ About me:
   <img align="center" alt="PostgreSQL" title="PostgreSQL" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="MySQL" title="MySQL" heigth="20"  width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </div>
-  
-<!--
-https://github.com/anuraghazra/github-readme-stats#github-stats-card
-https://github.com/diogorodrigues
-https://github.com/devfraga
-https://github.com/rafaballerini
-https://github.com/matyo91/matyo91
-https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
-https://dev.to/diogorodrigues/creating-amazing-github-profiles-readme-5h31
-https://devicon.dev/
--->
