@@ -12,7 +12,7 @@ About me:
   <span> Reach me!</span>
   
   <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="19px" width="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  <span> Professional profile</span>  
+  <span> Professional profile: <a href="https://www.linkedin.com/in/felipebelisario">linkedin.com/in/felipebelisario</a></span>  
 </div>
 
 <div heigth="180em" style="display: inline_block, margin: 12px">
@@ -21,6 +21,8 @@ About me:
   </a>
 </div>
   
+<br>
+
 <div heigth="180em" style="display: inline_block, margin: 12px">
   <a href="https://github.com/fsbelisario">
     <img heigth="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsbelisario&langs_count=16&theme=dark"/>
