@@ -7,7 +7,7 @@ About me:
     <span>Freelance full-stack developer with Engineering and Project Management background. Currently applying software development skills to innovation and continuous improvement solutions.</span>
   </ul>
   
-  <img heigth="100%" width="419" align="center" style="margin: 0 12px 0 0" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img heigth="100%" width="419" align="center" style="margin: 0 12px 0 0" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&theme=dark&include_all_commits=true&count_private=true"/>
   
 <div style="display: flex, align_items: center, margin: 0px 12px 0px 12px">  
   <a href="mailto:fbelisario.dev@gmail.com"><img heigth="18px" width="19.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
