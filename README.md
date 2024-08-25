@@ -8,11 +8,8 @@ About me:
   </ul><br>
   
 <div style="display: flex, align_items: center, margin: 0px 12px 0px 12px">  
-  <a href="mailto:fbelisario.dev@gmail.com"><img heigth="18px" width="19.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" /></a>
-  <span> Reach me: <a href="mailto:fbelisario.dev@gmail.com">fbelisario.dev@gmail.com</a></span>
-  
-  <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="19px" width="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-  <span> Professional profile: <a href="https://www.linkedin.com/in/felipebelisario">linkedin.com/in/felipebelisario</a></span>  
+  <a href="mailto:fbelisario.dev@gmail.com"><img heigth="18px" width="19.5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" />
+  <a href="https://www.linkedin.com/in/felipebelisario"><img heigth="19px" width="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </div><br>
 
 <div heigth="180em" style="display: inline_block, margin: 12px">
