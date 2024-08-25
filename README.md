@@ -1,50 +1,17 @@
 ## Felipe Belisário
 
-<div style="display: flex, flwx-wrap: no-wrap, justify-content: space-between, align-items: center, margin: 0 12px;">
-  <h2 style="margin: 0">Felipe Belisário</h2>
-  <div style="display: flex, align-items: center">
-    <a href="mailto:fbelisario.dev@gmail.com" style="text-decoration: none, margin-left: 8px">
-      <img height="18" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail Icon" style="vertical-align: middle" />
-    </a>
-    <a href="https://www.linkedin.com/in/felipebelisario" style="text-decoration: none, margin-left: 8px">
-      <img height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" style="vertical-align: middle" />
-    </a>
-  </div>
-</div>
-
-
 I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 
 About me:
-  <ul>
-    <span>Freelance full-stack developer with Engineering and Project Management background. Currently applying software development skills to innovation and continuous improvement solutions.</span>
-  </ul>
-  <br>
-  
-<div style="display: flex, align_items: center, margin: 0px 12px 0px 12px">  
-  <span>Contact: </span>
-  <a href="mailto:fbelisario.dev@gmail.com">
-    <img heigth="18px" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipebelisario">
-    <img heigth="18px" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-</div>
-
-<br>
-
-<div style="display: flex, align-items: center, margin: 0 12">
-  <span>Contact:</span>
-  <ul>
-    <a href="mailto:fbelisario.dev@gmail.com">
-      <img heigth="18px" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" />
-    </a>
-  </ul>
-  <ul>
-    <a href="https://www.linkedin.com/in/felipebelisario" style="text-decoration: none;">
-      <img height="18px" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" style="vertical-align: middle, margin-left: 8;" />
-    </a>
-  </ul>
+<ul>
+  <span>Freelance full-stack developer with Engineering and Project Management background. Currently applying software development skills to innovation and continuous improvement solutions.</span>
+</ul>
+ 
+<div>
+  <a href="mailto:fbelisario.dev@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/felipebelisario" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </div>
 
 <br>
@@ -63,8 +30,9 @@ About me:
   </a>
 </div>
   
-<div style="display: inline_block, margin: 12px">
-  <br>
+<br>
+
+<div style="display: flex, margin: 12px, gap: 42px">
   <img align="center" alt="JS" title="JavaScript" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="NodeJS" title="NodeJS" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="React" title="React" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
