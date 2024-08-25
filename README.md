@@ -1,6 +1,6 @@
 ## Felipe Belisário
 
-<div style="display: flex, justify-content: space-between, align-items: center, margin: 0 12px;">
+<div style="display: flex, flwx-wrap: no-wrap, justify-content: space-between, align-items: center, margin: 0 12px;">
   <h2 style="margin: 0">Felipe Belisário</h2>
   <div style="display: flex, align-items: center">
     <a href="mailto:fbelisario.dev@gmail.com" style="text-decoration: none, margin-left: 8px">
