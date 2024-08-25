@@ -9,10 +9,10 @@ About me:
   
 <div style="display: flex, align_items: center, margin: 0px 12px 0px 12px">  
   <a href="mailto:fbelisario.dev@gmail.com">
-    <img heigth="18px" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" />
+    <img heigth="18px" width="19px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" />
   </a>
   <a href="https://www.linkedin.com/in/felipebelisario">
-    <img heigth="18px" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img heigth="18px" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
 
