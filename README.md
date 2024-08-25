@@ -19,6 +19,19 @@ About me:
 
 <br>
 
+<div style="display: flex, align-items: center, margin: 0 12px">
+  <span style="margin-right: 8px">Contact:</span>
+  <a href="mailto:fbelisario.dev@gmail.com" style="text-decoration: none;">
+    <img height="18" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail Icon" style="vertical-align: middle;" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipebelisario" style="text-decoration: none;">
+    <img height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" style="vertical-align: middle; margin-left: 8px;" />
+  </a>
+</div>
+
+
+<br>
+
 <div heigth="180em" style="display: inline_block, margin: 12px">
   <a href="https://github.com/fsbelisario">
     <img heigth="100%" width="419" align="center" style="margin: 0 12px 0 0" src="https://github-readme-stats.vercel.app/api?username=fsbelisario&theme=dark&include_all_commits=true&count_private=true"/>
