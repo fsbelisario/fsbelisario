@@ -16,7 +16,7 @@ About me:
 
 <br>
       
-<div heigth="180em" style="display: flex>
+<div>
   <img
     style="height: 180px, width: auto"
     src="https://github-readme-stats.vercel.app/api?username=fsbelisario&theme=dark&hide_border=false&include_all_commits=true"
@@ -30,9 +30,7 @@ About me:
 </div>
 
 <img
-  heigth="100%"
-  align="center"
-  style="margin-left: 12"
+  style="height: 180px, width: auto"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsbelisario&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
   alt="Github Stats"
 />
