@@ -1,5 +1,18 @@
 ## Felipe Belisário
 
+<div style="display: flex, justify-content: space-between, align-items: center, margin: 0 12px;">
+  <h2 style="margin: 0">Felipe Belisário</h2>
+  <div style="display: flex, align-items: center">
+    <a href="mailto:fbelisario.dev@gmail.com" style="text-decoration: none, margin-left: 8px">
+      <img height="18" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail Icon" style="vertical-align: middle" />
+    </a>
+    <a href="https://www.linkedin.com/in/felipebelisario" style="text-decoration: none, margin-left: 8px">
+      <img height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" style="vertical-align: middle" />
+    </a>
+  </div>
+</div>
+
+
 I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 
 About me:
