@@ -20,12 +20,12 @@ About me:
 <br>
 
 <div style="display: flex, align-items: center, margin: 0 12px">
-  <span style="margin-right: 8px">Contact:</span>
-  <a href="mailto:fbelisario.dev@gmail.com" style="text-decoration: none;">
-    <img height="18" width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail Icon" style="vertical-align: middle;" />
+  <span style="margin-right: 8">Contact:</span>
+  <a href="mailto:fbelisario.dev@gmail.com" style="text-decoration: none">
+    <img height="18" width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" alt="Gmail Icon" style="vertical-align: middle" />
   </a>
   <a href="https://www.linkedin.com/in/felipebelisario" style="text-decoration: none;">
-    <img height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" style="vertical-align: middle; margin-left: 8px;" />
+    <img height="18" width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" style="vertical-align: middle, margin-left: 8;" />
   </a>
 </div>
 
