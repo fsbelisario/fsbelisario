@@ -8,10 +8,10 @@ About me:
   </ul><br>
   
 <div style="display: flex, align_items: center, margin: 0px 12px 0px 12px">  
+  <span>Contact: </span>
   <a href="mailto:fbelisario.dev@gmail.com">
     <img heigth="18px" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gmail_Icon_%282013-2020%29.svg/2560px-Gmail_Icon_%282013-2020%29.svg.png" />
   </a>
-  <br>
   <a href="https://www.linkedin.com/in/felipebelisario">
     <img heigth="18px" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
