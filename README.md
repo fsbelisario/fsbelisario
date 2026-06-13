@@ -39,6 +39,7 @@ About me:
 
 <div style="display: flex, gap: 6px">
   <img align="center" alt="JS" title="JavaScript" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="JS" title="JavaScript" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="NodeJS" title="NodeJS" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="React" title="React" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="HTML" title="HTML" heigth="20" width="27" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
