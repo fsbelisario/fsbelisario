@@ -4,7 +4,7 @@ I'm a full-stack developer based in Belo Horizonte/MG, Brazil.
 
 About me:
 <ul>
-  <span>Freelance full-stack developer with Engineering and Project Management background. Currently applying software development skills to innovation and continuous improvement solutions.</span>
+  <span>Full-stack developer with Engineering and Project Management background. Currently applying software development skills to innovation and continuous improvement solutions.</span>
 </ul>
  
 <div>
